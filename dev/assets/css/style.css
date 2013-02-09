@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, sans-serif;
+	background-image: url('/assets/images/bg.png');
+}
+
+#wrapper {
+	margin: 0px auto;
+	width: 80%;
+}
+
+#footer {
+	margin-top: 50px;
+}
+
+#footer p {
+	text-align: center;
+}
+
+.page-header {
+	margin-bottom: 40px;
+	text-align: center;
+}
